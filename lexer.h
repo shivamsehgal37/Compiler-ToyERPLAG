@@ -1,4 +1,3 @@
-
 #ifndef lexer
 #define lexer
 #include "lexerDef.h"

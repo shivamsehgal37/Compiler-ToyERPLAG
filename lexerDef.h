@@ -1,4 +1,3 @@
-
 #ifndef lexerDef
 #define lexerDef
 

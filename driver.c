@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 52357b2a2f5191e027a92fa4a83b86070428a425
 #include <stdio.h>
 #include <math.h>
 #include <string.h>

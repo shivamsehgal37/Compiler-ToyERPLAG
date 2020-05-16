@@ -1,4 +1,3 @@
-
 #include "lexerDef.h"
 #include "lexer.h"
 #include <stdio.h>
