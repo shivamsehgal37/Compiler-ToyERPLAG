@@ -1,10 +1,3 @@
-/*
- *	COMPILER PROJECT- ERPLAG COMPILER
- *	Batch Number 74
- *	Bhuvnesh Jain : 2014A7PS028P
- *	Chirag Agarwal : 2014A7PS033P
- */
-
 #include "lexerDef.h"
 #include "lexer.h"
 #include <stdio.h>
